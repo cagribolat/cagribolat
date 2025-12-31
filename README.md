@@ -3,7 +3,8 @@
 <h1 align="left">
   <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" style="width: 100px; height: 100px; border-radius: 50%;">
 
-<h1 align="top">Hi 👋 I'm Çağrı</p>I'm a Ui/Ux Designer
+<h1 align="top">Hi 
+  I'm Çağrı</p>I'm a Ui/Ux Designer
 
 
 
@@ -17,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Figma** </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cagribolat" alt="cagribolat" /></a> 
+
 
 
 
