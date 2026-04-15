@@ -1,25 +1,51 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cagribolat&label=Profile%20views&color=0e75b6&style=flat" alt="cagribolat" /> </p>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://avatars.githubusercontent.com/u/52715393?v=4" alt="Çağrı Bolat" style="width: 100px; height: 100px; border-radius: 50%;">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=cagribolat&label=Profile%20Views&color=6366f1&style=flat-square" alt="views" />
+</p>
 
-<h1 align="top">Hi 
-  I'm Çağrı</p>I'm a Ui/Ux Designer
+<img src="https://avatars.githubusercontent.com/u/52715393?v=4" width="130" style="border: 2px solid #6366f1; border-radius: 15px; padding: 5px; background: white; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
 
+# Çağrı Bolat
+**UI/UX Designer**
 
-<h1 align="left">
+<br />
 
-- 🔭 I’m currently working on **Figma**
+<a href="https://www.linkedin.com/in/cagribolat" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://cagribolat.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
-- 🌱 I’m currently learning **Html**
+<br />
+<br />
 
-- 👯 I’m looking to collaborate on **Figma**
+<p align="center">
+  <i>"Crafting seamless user experiences through minimalist design and clean code."</i>
+</p>
 
-- 🤝 I’m looking for help with **Figma** </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### ⚡ Quick Insights
 
+<div align="center">
 
+| 🔭 Working on | 🌱 Learning | 👯 Collaborating |
+| :---: | :---: | :---: |
+| **Figma High-Fi Prototypes** | **Modern Front-end Tech** | **UI Design Systems** |
 
+</div>
 
+<br />
+
+### 🛠 Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" height="28" />
+</p>
+
+<br />
+
+</div>
